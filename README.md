@@ -8,12 +8,20 @@ Number of variables: 8 plus target
 
 Variable Description:
 
-Number of times pregnant
-Plasma glucose concentration a 2 hours in an oral glucose tolerance test
-Diastolic blood pressure (mm Hg)
-Triceps skin fold thickness (mm)
-2-Hour serum insulin (mu U/ml)
-Body mass index (weight in kg/(height in m)^2)
-Diabetes pedigree function
-Age (years)
-Target variable (0 or 1) - value 1 is interpreted as "tested positive for diabetes"
+1. Number of times pregnant
+
+2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+
+3. Diastolic blood pressure (mm Hg)
+
+4. Triceps skin fold thickness (mm)
+
+5. 2-Hour serum insulin (mu U/ml)
+
+6. Body mass index (weight in kg/(height in m)^2)
+
+7. Diabetes pedigree function
+
+8. Age (years)
+
+9. Target variable (0 or 1) - value 1 is interpreted as "tested positive for diabetes"
